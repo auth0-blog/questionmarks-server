@@ -1,4 +1,4 @@
-package com.questionmark.server;
+package com.questionmark;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
